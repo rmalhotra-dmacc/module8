@@ -14,7 +14,7 @@ def in_dict(a_dict, a_key):
     :param a_key: This is a key value
     :return: Boolean - True or False
     """
-    pass
+    return a_key in a_dict
 
 
 if __name__ == '__main__':
